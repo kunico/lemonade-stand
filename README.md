@@ -314,7 +314,7 @@ TRADUCCIÓNES: [Chino Tradicional(繁體中文)](https://github.com/jserv/lemona
 
 ## SaaS
 
-*SaaS significa [Software como servicio (Software as a Service en inglés)] (https://en.wikipedia.org/wiki/Software_as_a_s_service). En este modelo, la base de código en sí misma puede seguir siendo de código abierto, pero usted ofrece servicios pagados como el cobro por el uso de un sitio alojado principal o el manejo del hospedaje de instancias dedicadas para los clientes. Por lo general, los clientes que pagan también reciben asistencia prioritaria.*
+*SaaS significa [Software como servicio (Software as a Service en inglés)](https://en.wikipedia.org/wiki/Software_as_a_s_service). En este modelo, la base de código en sí misma puede seguir siendo de código abierto, pero usted ofrece servicios pagados como el cobro por el uso de un sitio alojado principal o el manejo del hospedaje de instancias dedicadas para los clientes. Por lo general, los clientes que pagan también reciben asistencia prioritaria.*
 
 #### Pros
 
