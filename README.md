@@ -469,4 +469,4 @@ Si algo es incorrecto (especialmente con un ejemplo de estudio de caso), doy la 
 
 ### Licencia y atribución
 
-Esta guía está disponible bajo la licencia Creative Commons CC0 1.0, lo que significa que puede usarla para cualquier propósito, comercial o no comercial, sin ninguna atribución a mi nombre (dominio público). Si lo usas, me encantaría saberlo. (Búscame aquí: [@nayafia] (http://twitter.com/nayafia)) Pero no estás obligado a hacerlo.
+Esta guía está disponible bajo la licencia Creative Commons CC0 1.0, lo que significa que puede usarla para cualquier propósito, comercial o no comercial, sin ninguna atribución a mi nombre (dominio público). Si lo usas, me encantaría saberlo. (Búscame aquí: [@nayafia](http://twitter.com/nayafia)) Pero no estás obligado a hacerlo.
