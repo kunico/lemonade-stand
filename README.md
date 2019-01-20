@@ -16,7 +16,7 @@ Las categorías no son mutualmente exclusivas. Por ejemplo, un proyecto puede te
 
 # Tabla de cóntenidos:
 1. [Botón de donación](#botones-de-donación)
-2. [Recompensas](#recompensas)
+2. [Recompensas](#recompensasbounties)
 3. [Crowdfunding (una-vez)](#crowdfunding-una-vez)
 4. [Crowdfunding (recurrente)](#crowdfunding-recurrente)
 5. [Libros y merchandise](#libros-y-merchandise)
@@ -88,7 +88,7 @@ TRADUCCIÓNES: [Chino Tradicional(繁體中文)](https://github.com/jserv/lemona
 * [IssueHunt](https://issuehunt.io)
 * [Status Open Bounty](https://openbounty.status.im/)
 
-## Crowdfunding (one-time)
+## Crowdfunding (una-vez)
 
 *If you have a specific idea you'd like to implement (rather than ongoing project work), a one-time crowdfunding campaign can help raise the funds you need. Both individuals and companies might be willing to donate to your campaign.*
 
@@ -114,7 +114,7 @@ TRADUCCIÓNES: [Chino Tradicional(繁體中文)](https://github.com/jserv/lemona
 * [RESTful WP-CLI](https://poststatus.com/kickstarter-open-source-project/)
 * [ribasushi + CPAN (personal effort)](https://www.tilt.com/tilts/year-of-ribasushi-help-him-focus-on-cpan-for-2016)
 
-## Crowdfunding (recurring)
+## Crowdfunding (recurrente)
 
 *If you'd like to fund ongoing project work, you can set up a recurring crowdfunding campaign, with a monthly or annual financial commitment that renews indefinitely (or until the donor cancels). Those who use your project regularly (including both individuals and companies) might be willing to fund your work.*
 
@@ -141,7 +141,7 @@ TRADUCCIÓNES: [Chino Tradicional(繁體中文)](https://github.com/jserv/lemona
 * [Tom Christie + Django REST framework (personal effort)](https://fund.django-rest-framework.org/topics/funding/)
 * [webpack](https://opencollective.com/webpack)
 
-## Books and merchandise
+## Libros y merchandise
 
 *If you are an expert in a domain that other people might find useful to learn about, you could write and sell a book or series of books. You can find a publisher (like O'Reilly) or self-publish. In addition to selling books, some projects sell merchandise (ex. shirts, hoodies) to support their work.*
 
