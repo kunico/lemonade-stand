@@ -27,11 +27,11 @@ Las categorías no son mutualmente exclusivas. Por ejemplo, un proyecto puede te
 10. [Consultoría](#consultoría)
 11. [Apoyo pagado](#apoyo-pagado)
 12. [SaaS](#saas)
-13. [Copyleft + licencia paga](#copyleft--paid-license)
+13. [Copyleft + licencia paga](#copyleft--licencia-paga)
 14. [Open core](#open-core)
-15. [Fundaciones & consorcios](#foundations--consortiums)
-16. [Capital de riesgo](#venture-capital)
-17. [Licencia restringida](#restricted-license)
+15. [Fundaciones & consorcios](#fundaciones--consorcios)
+16. [Capital de riesgo](#capital-de-riesgo)
+17. [Licencia restringida](#licencia-restringida)
 
 APÉNDICE: [Contribuyendo a esta guía](#contributing-to-this-guide) // [Licencia y atribución](#license-and-attribution)  
 TRADUCCIÓNES: [Chino Tradicional(繁體中文)](https://github.com/jserv/lemonade-stand) // [Chino Simplificado(簡體中文)](https://github.com/wizicer/FinancialSupportForOpenSource) // [Italiano](https://github.com/dakk/lemonade-stand) // [Japonés(日本語)](https://github.com/fumikito/lemonade-stand)
@@ -165,7 +165,7 @@ TRADUCCIÓNES: [Chino Tradicional(繁體中文)](https://github.com/jserv/lemona
 * [Lua](https://www.lua.org/pil/)
 * [Sandi Metz + Practical Object-Oriented Design in Ruby (personal effort)](http://www.poodr.com/)
 
-## Advertising & sponsorships
+## Publicidad y patrocinios
 
 *If your project has a large audience, you can sell sponsorships to advertisers who might want to reach them. You probably have a very targeted audience (ex. if you have a Python project, you can assume your audience is likely people who are technically familiar with Python), so use that to your advantage.*
 
@@ -188,7 +188,7 @@ TRADUCCIÓNES: [Chino Tradicional(繁體中文)](https://github.com/jserv/lemona
 * [Hoodie](http://hood.ie/sponsoring/)
 * [Read the Docs](http://blog.readthedocs.com/ads-on-read-the-docs/)
 
-## Get hired by a company to work on project
+## Ser contratado por una compañia para trabajar en un proyecto
 
 *Companies sometimes hire individuals to do open source work. Find a company that uses the project you want to work on. Often this is a split arrangement (ex. 50% company work, 50% open source work). Alternatively, if you have an idea for a new project, find a company that would be interested in using what you produce. In these situations, having demonstrated experience you can point to will be very helpful.*
 
@@ -213,7 +213,7 @@ TRADUCCIÓNES: [Chino Tradicional(繁體中文)](https://github.com/jserv/lemona
 * [Rich Hickey + Cognitect and Clojure](http://www.bizjournals.com/triangle/news/2013/09/17/durhams-relevance-to-merge-with.html?full=true)
 * [Ryan Dahl + Joyent and Node.js (opens a YouTube video) (personal effort)](http://www.youtube.com/watch?v=SAc0vQCC6UQ&t=29m20s)
 
-## Start a project while currently employed
+## Empezar un proyecto mientras estás empleado
 
 *Many open source projects started as employee side projects. The project might eventually outgrow the company, but starting it as a side project can be a great way to incubate the idea.*
 
@@ -239,7 +239,7 @@ TRADUCCIÓNES: [Chino Tradicional(繁體中文)](https://github.com/jserv/lemona
 * [Mozilla and Rust](https://www.rust-lang.org/faq.html#is-this-project-controlled-by-mozilla)
 
 
-## Grants
+## Subsidios
 
 *Grants are effectively large donations that do not require repayment. Oftentimes the grantmaker receives other benefits from giving you the grant, such as access to you, demonstration of impact, a report of your work, or tax benefits.*
 
@@ -267,7 +267,7 @@ TRADUCCIÓNES: [Chino Tradicional(繁體中文)](https://github.com/jserv/lemona
 * [Libraries.io grant applications](https://github.com/librariesio/supporters)
 * [Segment Open Fellowship](https://segment.com/blog/segment-open-fellowship-2017/)
 
-## Consulting
+## Consultoría
 
 *Consulting can be a flexible way to fund open source work. You have more freedom to structure your time as you wish (for example, consulting 30 hrs of the week and spending 10 hrs of the week on open source work). Consultants can usually charge more for their time than salaried employees because the work is less steady, they don't receive benefits, etc. If you plan on doing this type of work regularly, you will probably want to set up an LLC (or equivalent outside of the US).*
 
@@ -291,7 +291,7 @@ TRADUCCIÓNES: [Chino Tradicional(繁體中文)](https://github.com/jserv/lemona
 * [OpenSSL](http://openssl.com/what.html)
 * [Varnish Moral License](http://phk.freebsd.dk/VML/)
 
-## Paid support
+## Apoyo pagado
 
 *In this model, the code is freely available, but users need to pay to receive support from the project's maintainers. That might mean charging for access to the issue tracker, office hours, a community Slack, or an SLA (service-level agreement).*
 
@@ -338,7 +338,7 @@ TRADUCCIÓNES: [Chino Tradicional(繁體中文)](https://github.com/jserv/lemona
 * [Travis CI](https://travis-ci.org/)
 * [WordPress.com](http://wordpress.com/)
 
-## Copyleft + paid license
+## Copyleft + licencia paga
 
 *Companies selling proprietary software prefer to include permissively licensed code (such as MIT or Apache 2.0) rather than copyleft licensed code (like the GPL) in their software, because the latter requires them to keep the same copyleft terms for their end products. So, some open source projects use a copyleft license by default, but they sell license exceptions, proprietary licenses, or permissive commercial licenses to companies who want to bypass the copyleft requirements.*
 
@@ -386,7 +386,7 @@ TRADUCCIÓNES: [Chino Tradicional(繁體中文)](https://github.com/jserv/lemona
 * [Phusion Passenger](https://www.phusionpassenger.com/); see also their talk, ["Bootstrapping a Business Around Open Source"](https://www.youtube.com/watch?v=uHaMpLyMOL0&feature=youtu.be) (video)
 * [Sidekiq](http://sidekiq.org/)
 
-## Foundations & consortiums
+## Fundaciones & consorcios
 
 *A [foundation](https://en.wikipedia.org/wiki/Foundation_(nonprofit)) is a legal entity that can accept and/or disburse donations. Because their purpose is not to make profits, they can be a great choice to signal neutrality and steward a project. In the US, foundations are either 501(c)(3) (nonprofit) or 501(c)(6) (trade consortium). Many software foundations are 501(c)(6) because 501(c)(3) require demonstrating a charitable purpose, which can be more difficult in software.*
 
@@ -410,7 +410,7 @@ TRADUCCIÓNES: [Chino Tradicional(繁體中文)](https://github.com/jserv/lemona
 * [Ruby Together](http://rubytogether.org/)
 * [Signal Foundation](https://signal.org/blog/signal-foundation/)
 
-## Venture capital
+## Capital de riesgo
 
 *Venture capital is a form of funding for high growth businesses. Unlike a bank loan or other forms of debt financing, venture capitalists take equity (a percent ownership in your business) in exchange for funding. Unlike taking out a loan, you don't have to repay your creditors if your business tanks. If you do succeed, however, you should expect to return capital to your investor at a multiple.*
 
@@ -436,7 +436,7 @@ TRADUCCIÓNES: [Chino Tradicional(繁體中文)](https://github.com/jserv/lemona
 * [Npm](http://blog.npmjs.org/post/76320673650/funding)
 * [OSS Capital](https://oss.capital/)
 
-## Restricted license
+## Licencia restringida
 
 *Restricted licenses (reminiscent of the older [shareware](https://en.wikipedia.org/wiki/Shareware) movement) are **not open source** because they do not meet [the definition](https://en.wikipedia.org/wiki/The_Open_Source_Definition) of an open source license. The source code is made available (either publicly, or to customers who pay for a license), but they may limit the freedoms to redistribute and modify or to use the software commercially.*
 
