@@ -54,7 +54,7 @@ TRADUCCIÓNES: [Chino Tradicional(繁體中文)](https://github.com/jserv/lemona
 * Para hacer donaciones líbres de impuestos para la persona/organización que está donando, es posible que necesite una entidad legalmente caritativa (en los Estados Unidos, una entidad sin fines de lucro 501(c)(3)) para aceptar donaciones. [Software Freedom Conservancy](https://sfconservancy.org) y [NumFOCUS](https://www.numfocus.org) son ejemplos. Más difícil de gestionar para individuos o donaciones internacionales.
 * Algúnas veces no es claro quién "merece" dinero en un proyecto o cómo éste es distribuído. Una entidad como [OpenCollective](http://opencollective.com) puede ayudar con esto.
 
-#### Estudios de caso
+#### Estudios del caso
 
 * [ChatSecure](https://chatsecure.org/blog/sustainable-open-source-starts-with-you/)
 * [Git](https://git-scm.com/sfc)
@@ -78,7 +78,7 @@ TRADUCCIÓNES: [Chino Tradicional(繁體中文)](https://github.com/jserv/lemona
 * Generalmente no hay mucho dinero por recompensa (~ <$ 500).
 * No proporciona ingresos recurrentes.
 
-#### Estudios de caso
+#### Estudios del caso
 
 * [Bountysource](http://bountysource.com)
 * [Gitcoin](https://gitcoin.co/explorer)
@@ -90,21 +90,21 @@ TRADUCCIÓNES: [Chino Tradicional(繁體中文)](https://github.com/jserv/lemona
 
 ## Crowdfunding (una-vez)
 
-*If you have a specific idea you'd like to implement (rather than ongoing project work), a one-time crowdfunding campaign can help raise the funds you need. Both individuals and companies might be willing to donate to your campaign.*
+*Si tienes una idea específica que te gustaría implementar (en lugar de trabajo de proyecto en curso), una campaña de crowdfounding de única-vez puede ayudarte a recaudar los fondos que necesitas. Tanto las personas como las empresas podrían estar dispuestas a donar para tu campaña.*
 
 #### Pros
 
-* Few strings attached
-* Can be easier for an individual to legally manage via, e.g. [Kickstarter](https://kickstarter.com/)
+* Pocas condiciones
+* Puede ser más fácil para una persona gestionar legalmente a través de, por ejemplo. [Kickstarter](https://kickstarter.com/)
 
-#### Cons
+#### Contras
 
-* Lots of work involved to market campaign
-* Usually has to be tied to concrete outcome, perks
-* Usually not that much money (~$50K for one time)
-* Companies not always comfortable donating to campaigns
+* Mucho trabajo involucrado en la campaña de mercado.
+* Por lo general, tiene que estar vinculado a un resultado concreto, beneficios
+* Por lo general no es mucho dinero (~$50K por única vez)
+* Empresas no siempre cómodas donando para campañas.
 
-#### Case Studies
+#### Estudios del caso
 
 * [Andrew Godwin + Django (personal effort)](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django)
 * [Dave Gandy + Font Awesome](https://www.kickstarter.com/projects/232193852/font-awesome-5)
@@ -116,21 +116,21 @@ TRADUCCIÓNES: [Chino Tradicional(繁體中文)](https://github.com/jserv/lemona
 
 ## Crowdfunding (recurrente)
 
-*If you'd like to fund ongoing project work, you can set up a recurring crowdfunding campaign, with a monthly or annual financial commitment that renews indefinitely (or until the donor cancels). Those who use your project regularly (including both individuals and companies) might be willing to fund your work.*
+*Si desea financiar el trabajo de un proyecto en curso, puede configurar una campaña de financiamiento colectivo recurrente, con un compromiso financiero mensual o anual que se renueve indefinidamente (o hasta que el donante lo cancele). Aquellos que usan su proyecto regularmente (incluyendo individuos y compañías) podrían estar dispuestos a financiar su trabajo*
 
 #### Pros
 
-* Few strings attached
-* Can be easier for an individual to legally manage via, e.g. [Patreon](https://patreon.com), [Salt](https://salt.bountysource.com/), [Liberapay](https://liberapay.com/), [OpenCollective](https://opencollective.com), [Flattr](https://flattr.com/)
+* Pocas condiciones
+* Puede ser más fácil para una persona gestionar legalmente a través de, por ejemplo. [Patreon](https://patreon.com), [Salt](https://salt.bountysource.com/), [Liberapay](https://liberapay.com/), [OpenCollective](https://opencollective.com), [Flattr](https://flattr.com/)
 
-#### Cons
+#### Contras
 
-* Harder to get commitments to recurring donations (often requires preexisting brand/reputation)
-* Harder to explain concrete outcomes, perks that come with recurring donations
-* Usually not that much money (~$1-4K monthly)
-* Companies not always comfortable donating to campaigns
+* Es más difícil obtener compromisos con donaciones recurrentes (a menudo requiere marca / reputación preexistentes)
+* Más difícil de explicar los resultados concretos, las ventajas vienen con donaciones recurrentes
+* Generalmente no tanto dinero (~ $ 1-4K mensual)
+* Las empresas no siempre se sienten cómodas donando a campañas.
 
-#### Case Studies
+#### Estudios del caso
 
 * [Babel](https://opencollective.com/babel)
 * [Clojurists Together](https://clojuriststogether.org)
@@ -143,21 +143,21 @@ TRADUCCIÓNES: [Chino Tradicional(繁體中文)](https://github.com/jserv/lemona
 
 ## Libros y merchandise
 
-*If you are an expert in a domain that other people might find useful to learn about, you could write and sell a book or series of books. You can find a publisher (like O'Reilly) or self-publish. In addition to selling books, some projects sell merchandise (ex. shirts, hoodies) to support their work.*
+*Si eres un experto en un dominio que otras personas pueden encontrar útil para aprender, puedes escribir y vender un libro o una serie de libros. Puedes encontrar un editor (como O'Reilly) o auto-publicación. Además de vender libros, algunos proyectos venden mercadería (por ejemplo, camisas, sudaderas con capucha) para apoyar su trabajo.*
 
 #### Pros
 
-* Outcome not tied to project work itself, so you retain creative freedom
-* Can serve as marketing for the project itself
-* Can be recurring source of revenue after initial development
+* El resultado no está vinculado al trabajo del proyecto en sí, por lo que conserva la libertad creativa.
+* Puede servir de marketing para el propio proyecto.
+* Puede ser una fuente recurrente de ingresos después del desarrollo inicial.
 
-#### Cons
+#### Contras
 
-* Often not a significant source of revenue
-* Can distract from core development of project
-* Merchandise can have upfront costs
+* A menudo no es una fuente importante de ingresos
+* Puede distraer del desarrollo central del proyecto.
+* La mercancía puede tener costos por adelantado.
 
-#### Case Studies
+#### Estudios del caso
 
 * [CocoaPods (fundraising for charity)](https://cocoapods.org/socks)
 * [Daniel and Audrey Roy Greenfeld + Two Scoops of Django (personal effort)](https://www.twoscoopspress.com/products/two-scoops-of-django-1-8)
@@ -167,21 +167,21 @@ TRADUCCIÓNES: [Chino Tradicional(繁體中文)](https://github.com/jserv/lemona
 
 ## Publicidad y patrocinios
 
-*If your project has a large audience, you can sell sponsorships to advertisers who might want to reach them. You probably have a very targeted audience (ex. if you have a Python project, you can assume your audience is likely people who are technically familiar with Python), so use that to your advantage.*
+*Si su proyecto tiene una gran audiencia, puede vender patrocinios a anunciantes que quieran llegar a ellos. Probablemente tenga una audiencia muy específica (por ejemplo, si tiene un proyecto de Python, puede asumir que su audiencia es probablemente gente que está familiarizada técnicamente con Python), así que aproveche esa ventaja.*
 
 #### Pros
 
-* Business model aligned with something people are willing to pay for
+* Modelo de negocio alineado con algo que la gente está dispuesta a pagar.
 
-#### Cons
+#### Contras
 
-* Need large enough audience to justify sponsorships
-* Need to manage trust and transparency with user base (ex. no tracking)
-* Can be a lot of work to find and manage clients
-* Can involve ethical concerns about marketing
-* Can introduce a conflict of interest; making controversial changes could result in losing sponsors/advertisers 
+* Se necesita una audiencia lo suficientemente grande como para justificar patrocinios
+* Necesidad de administrar la confianza y la transparencia con la base de usuarios (por ejemplo, sin seguimiento)
+* Puede ser mucho trabajo para encontrar y administrar clientes.
+* Puede implicar preocupaciones éticas sobre el marketing.
+* Puede introducir un conflicto de intereses; Hacer cambios controvertidos podría resultar en la pérdida de patrocinadores / anunciantes. 
 
-#### Case Studies
+#### Estudios del caso
 
 * [CodeFund](https://codefund.io)
 * [GitFund](https://gitfund.io)
@@ -190,23 +190,23 @@ TRADUCCIÓNES: [Chino Tradicional(繁體中文)](https://github.com/jserv/lemona
 
 ## Ser contratado por una compañia para trabajar en un proyecto
 
-*Companies sometimes hire individuals to do open source work. Find a company that uses the project you want to work on. Often this is a split arrangement (ex. 50% company work, 50% open source work). Alternatively, if you have an idea for a new project, find a company that would be interested in using what you produce. In these situations, having demonstrated experience you can point to will be very helpful.*
+*Las empresas a veces contratan a personas para hacer trabajo de código abierto. Encuentre una empresa que use el proyecto en el que desea trabajar. A menudo, se trata de un acuerdo dividido (por ejemplo, 50% del trabajo de la empresa, 50% del trabajo de código abierto). Alternativamente, si tiene una idea para un nuevo proyecto, busque una compañía que esté interesada en usar lo que produce. En estas situaciones, tener experiencia demostrada a la que se puede señalar será muy útil.*
 
 #### Pros
 
-* Taps into those who have resources (i.e. companies)
-* Can be well-aligned with company needs
-* Steady income
+* Se conecta con aquellos que tienen recursos (es decir, empresas)
+* Puede estar bien alineado con las necesidades de la empresa
+* Ingreso estable
 
-#### Cons
+#### Contras
 
-* Usually involves “getting lucky”: no clear, repeatable path to finding this arrangement
-* Project already needs to be well-known and used
-* Person not contributing to company’s bottom line, which makes them expendable
-* Governance issues, company could have undue influence over project
-* Can affect project dynamics + balance
+* Generalmente implica "tener suerte": no hay un camino claro y repetible para encontrar este arreglo
+* El proyecto ya necesita ser conocido y usado
+* Persona que no contribuye al resultado final de la empresa, lo que los hace prescindibles.
+* Problemas de gobierno, la empresa podría tener una influencia indebida sobre el proyecto
+* Puede afectar la dinámica del proyecto + balance
 
-#### Case Studies
+#### Estudios del caso
 
 * [Aaron Patterson + ManageIQ and Ruby, Rails (personal effort)](http://community.redhat.com/blog/2014/09/tenderlove-joins-manageiq/)
 * [Donald Stufft + Hewlett-Packard and Python packaging (personal effort)](https://twitter.com/dstufft/status/594119386333609984)
@@ -215,23 +215,23 @@ TRADUCCIÓNES: [Chino Tradicional(繁體中文)](https://github.com/jserv/lemona
 
 ## Empezar un proyecto mientras estás empleado
 
-*Many open source projects started as employee side projects. The project might eventually outgrow the company, but starting it as a side project can be a great way to incubate the idea.*
+*Muchos proyectos de código abierto comenzaron como proyectos del lado del empleado. El proyecto podría eventualmente superar a la compañía, pero iniciarlo como un proyecto paralelo puede ser una excelente manera de incubar la idea.*
 
-*If you pursue this path, make sure you understand your company's policy on open source work. Some companies encourage employees to contribute to open source during working hours. Some might treat your open source work as a company project. Don't assume anything; ask someone at your company before starting.*
+*Si sigue este camino, asegúrese de entender la política de su empresa en el trabajo de código abierto. Algunas empresas alientan a los empleados a contribuir al código abierto durante las horas de trabajo. Algunos pueden tratar su trabajo de código abierto como un proyecto de empresa. No asumas nada; pregunte a alguien en su empresa antes de comenzar.*
 
 #### Pros
 
-* Freedom to test new ideas without worrying about salary
-* Can be well-aligned with company needs
-* Suitable for newer, experimental ideas
+* Libertad para probar nuevas ideas sin preocuparse por el salario.
+* Puede estar bien alineado con las necesidades de la empresa
+* Adecuado para nuevas ideas experimentales.
 
-#### Cons
+#### Contras
 
-* Need to do it as a side project or be approved to work on it during salaried time
-* Risk of undue company influence
-* Can lead to complicated governance later down the line
+* Debe hacerlo como un proyecto paralelo o ser aprobado para trabajar en él durante el tiempo asalariado
+* Riesgo de influencia indebida de la empresa.
+* Puede llevar a un gobierno complicado más adelante en la línea
 
-#### Case Studies
+#### Estudios del caso
 
 * [Facebook and React](https://www.quora.com/How-was-the-idea-to-develop-React-conceived-and-how-many-people-worked-on-developing-it-and-implementing-it-at-Facebook/answer/Bill-Fisher-17)
 * [Futurice's open source program](http://futurice.com/blog/sponsoring-free-time-open-source-activities)
@@ -241,22 +241,22 @@ TRADUCCIÓNES: [Chino Tradicional(繁體中文)](https://github.com/jserv/lemona
 
 ## Subsidios
 
-*Grants are effectively large donations that do not require repayment. Oftentimes the grantmaker receives other benefits from giving you the grant, such as access to you, demonstration of impact, a report of your work, or tax benefits.*
+*Los subsidios son efectivamente grandes donaciones que no requieren reembolso. A menudo, el otorgante de fondos recibe otros beneficios al otorgarle un subsidio, como acceso a usted, demostración de impacto, un informe de su trabajo o beneficios fiscales.*
 
-*Grants can come from many places, including companies, software foundations, philanthropic foundations, and the government. The technical and legal aspects of a grant vary greatly depending on where it comes from. For example, a company might give you a "grant" but legally treat it as a consulting invoice. A philanthropic foundation can only make grants to nonprofits, so you would need to be a nonprofit yourself, or (more commonly) find a nonprofit to sponsor you. If you're unfamiliar with grants, the best way to understand how grants work is to talk to someone who has received one before. Some examples of grant recipients are listed below.*
+*Los subsidios pueden provenir de muchos lugares, incluidas empresas, fundaciones de software, fundaciones filantrópicas y el gobierno. Los aspectos técnicos y legales de una subvención varían mucho según el origen. Por ejemplo, una empresa puede otorgarle una "subvención" pero legalmente lo trata como una factura de consultoría. Una fundación filantrópica solo puede otorgar subvenciones a organizaciones sin fines de lucro, por lo que debería ser una organización sin fines de lucro, o (más comúnmente) encontrar una organización sin fines de lucro que lo patrocine. Si no está familiarizado con los subsidios, la mejor manera de entender cómo funcionan las subvenciones es hablar con alguien que haya recibido una antes. A continuación se enumeran algunos ejemplos de beneficiarios de subvenciones.*
 
 #### Pros
 
-* Fewer strings attached
-* Guaranteed money can help project focus for an unbroken period of time
-* Gives project room to breathe and experiment
+* Pocas condiciones
+* El dinero garantizado puede ayudar a centrar el proyecto durante un período de tiempo ininterrumpido
+* Da espacio de proyecto para respirar y experimentar.
 
-#### Cons
+#### Contras
 
-* There aren’t many software-related grantmakers (philanthropic, gov’t, corporate)
-* Grants are finite. Still need to find sustainability beyond the life of a grant
+* No hay muchos proveedores de fondos relacionados con el software (filantrópico, gobierno, corporativo)
+* Los subsidios son finitos. Aún falta encontrar sustentabilidad más allá de la vida de un subsidio.
 
-#### Case Studies
+#### Estudios del caso
 
 * [Andrey Petrov + Stripe Open-Source Retreat and urllib3](https://medium.com/@shazow/urllib3-stripe-and-open-source-grants-edb9c0e46e82#.45ylnxrh4)
 * [Dash Budget Proposal Tracker](https://dashvotetracker.com/)
@@ -269,22 +269,22 @@ TRADUCCIÓNES: [Chino Tradicional(繁體中文)](https://github.com/jserv/lemona
 
 ## Consultoría
 
-*Consulting can be a flexible way to fund open source work. You have more freedom to structure your time as you wish (for example, consulting 30 hrs of the week and spending 10 hrs of the week on open source work). Consultants can usually charge more for their time than salaried employees because the work is less steady, they don't receive benefits, etc. If you plan on doing this type of work regularly, you will probably want to set up an LLC (or equivalent outside of the US).*
+*La consultoría puede ser una forma flexible de financiar el trabajo de código abierto. Tiene más libertad para estructurar su tiempo como desee (por ejemplo, consultar 30 horas de la semana y pasar 10 horas de la semana en trabajo de código abierto). Los consultores generalmente pueden cobrar más por su tiempo que los empleados asalariados porque el trabajo es menos estable, no reciben beneficios, etc. Si planea realizar este tipo de trabajo con regularidad, es probable que desee establecer una LLC (o equivalente). fuera de los Estados Unidos).*
 
-*If your project is popular, you can also offer consulting & services around the project itself. For example, a client might pay you to implement the project for them, build something custom, or train them on how to use it.*
+*Si su proyecto es popular, también puede ofrecer consultoría y servicios alrededor del proyecto en sí. Por ejemplo, un cliente puede pagarle para implementar el proyecto para ellos, construir algo personalizado o capacitarlo sobre cómo usarlo.*
 
 #### Pros
 
-* Business model aligned with something people are willing to pay for
+* Modelo de negocio alineado con algo que la gente está dispuesta a pagar.
 
-#### Cons
+#### Contras
 
-* Consulting requires human power, doesn’t scale well (except for rare outliers)
-* Business needs can distract from writing code or other tasks related to the project itself
-* Can be at odds with making software simple to use
-* Project needs to be sufficiently popular that people are willing to pay for related services
+* La consultoría requiere poder humano, no se escala bien (a excepción de los valores atípicos raros)
+* Las necesidades comerciales pueden distraer la escritura de código u otras tareas relacionadas con el proyecto en sí.
+* Puede estar en desacuerdo con hacer que el software sea fácil de usar
+* El proyecto debe ser lo suficientemente popular como para que las personas estén dispuestas a pagar por los servicios relacionados.
 
-#### Case Studies
+#### Estudios del caso
 
 * [Baroque Software](http://baroquesoftware.com/)
 * [Neighbourhoodie](https://neighbourhood.ie/)
@@ -293,19 +293,19 @@ TRADUCCIÓNES: [Chino Tradicional(繁體中文)](https://github.com/jserv/lemona
 
 ## Apoyo pagado
 
-*In this model, the code is freely available, but users need to pay to receive support from the project's maintainers. That might mean charging for access to the issue tracker, office hours, a community Slack, or an SLA (service-level agreement).*
+*En este modelo, el código está disponible de forma gratuita, pero los usuarios deben pagar para recibir soporte de los mantenedores del proyecto. Eso podría significar cobrar por el acceso a la seguimiento de incidencias, horas de oficina, el Slack de la comunidad, o un SLA (acuerdos de nivel de servicio).*
 
 #### Pros
 
-* Business model aligned with something people are willing to pay for
+* Modelo de negocio alineado con algo que la gente está dispuesta a pagar.
 
-#### Cons
+#### Contras
 
-* Can be at odds with making software simple to use
-* Project needs to be sufficiently popular that people are willing to pay
-* Maintainers don't necessarily want to offer professional support
+* Puede estar en desacuerdo con hacer que el software sea fácil de usar
+* El proyecto debe ser lo suficientemente popular como para que las personas estén dispuestas a pagar.
+* Los mantenedores no necesariamente quieren ofrecer soporte profesional
 
-#### Case Studies
+#### Estudios del caso
 
 * [Fody](https://github.com/Fody/Fody/blob/master/readme.md): Must be a Patreon supporter to open an issue or pull request
 * [Prism](https://www.patreon.com/prismlibrary): Supporting their Patreon gives you access to their community Slack channel for project support
@@ -314,20 +314,20 @@ TRADUCCIÓNES: [Chino Tradicional(繁體中文)](https://github.com/jserv/lemona
 
 ## SaaS
 
-*SaaS means [Software as a Service](https://en.wikipedia.org/wiki/Software_as_a_service). In this model, the codebase itself can remain open source, but you offer paid services such as charging for use of a main hosted site or for handling the hosting of dedicated instances for customers. Typically, paying customers also get priority support.*
+*SaaS significa [Software como servicio (Software as a Service en inglés)] (https://en.wikipedia.org/wiki/Software_as_a_s_service). En este modelo, la base de código en sí misma puede seguir siendo de código abierto, pero usted ofrece servicios pagados como el cobro por el uso de un sitio alojado principal o el manejo del hospedaje de instancias dedicadas para los clientes. Por lo general, los clientes que pagan también reciben asistencia prioritaria.*
 
 #### Pros
 
-* Can build community around open project and make money off of services for hosting
-* Allows open source project to focus on users and as needs grow to help enterprises adopt the project
-* Can scale by number of users
+* Puede crear una comunidad alrededor de un proyecto abierto y ganar dinero con los servicios de hosting
+* Permite que el proyecto de código abierto se centre en los usuarios y a medida que aumenten las necesidades para ayudar a las empresas a adoptar el proyecto
+* Se puede escalar por número de usuarios.
 
-#### Cons
+#### Contras
 
-* Often means the hosting needs to be cheaper than hiring a dev to run the project for you.
-* “Two tiers” of product support can make free users unhappy
+* A menudo significa que el hosting debe ser más barato que contratar un desarrollador para ejecutar el proyecto por usted.
+* "Dos niveles" de soporte de productos puede hacer que los usuarios gratis se sientan descontentos
 
-#### Case Studies
+#### Estudios del caso
 
 * [Discourse](https://www.discourse.org/)
 * [Forge Laravel](https://forge.laravel.com/)
@@ -340,21 +340,21 @@ TRADUCCIÓNES: [Chino Tradicional(繁體中文)](https://github.com/jserv/lemona
 
 ## Copyleft + licencia paga
 
-*Companies selling proprietary software prefer to include permissively licensed code (such as MIT or Apache 2.0) rather than copyleft licensed code (like the GPL) in their software, because the latter requires them to keep the same copyleft terms for their end products. So, some open source projects use a copyleft license by default, but they sell license exceptions, proprietary licenses, or permissive commercial licenses to companies who want to bypass the copyleft requirements.*
+*Las empresas que venden software propietario prefieren incluir en su software códigos con licencia permisiva (como MIT o Apache 2.0) en lugar de código con licencia copyleft (como la GPL), ya que estos últimos requieren que mantengan los mismos términos copyleft para sus productos finales. Por lo tanto, algunos proyectos de código abierto utilizan una licencia de copyleft de forma predeterminada, pero venden excepciones de licencia, licencias de propietario o licencias comerciales permisivas a las compañías que desean omitir los requisitos de copyleft.*
 
 #### Pros
 
-* Business model aligned with something people are willing to pay for
-* Can scale well if successful
+* Modelo de negocio alineado con algo que la gente está dispuesta a pagar.
+* Puede escalar bien si tiene éxito
 
-#### Cons
+#### Contras
 
-* Can be at odds with making software freely accessible
-* Project needs to be big enough that customer need exists
-* Only works for upstream software that's being used in downstream software
-* There can be legal or monetary barriers to moving code from open to proprietary 
+* Puede estar en desacuerdo con hacer que el software sea de libre acceso
+* El proyecto debe ser lo suficientemente grande para que exista la necesidad del cliente.
+* Solo funciona para el software ascendente que se utiliza en el software descendente
+* Puede haber barreras legales o monetarias para mover el código de abierto a propietario
 
-#### Case Studies
+#### Estudios del caso
 
 * [Metafizzy](https://metafizzy.co) (ex. [Isotope](https://isotope.metafizzy.co/license.html), [Flickity](https://flickity.metafizzy.co/license.html))
 * [MySQL](http://www.mysql.com/about/legal/licensing/oem/)
@@ -363,20 +363,20 @@ TRADUCCIÓNES: [Chino Tradicional(繁體中文)](https://github.com/jserv/lemona
 
 ## Open core
 
-*Under an [open core](https://en.wikipedia.org/wiki/Open_core) model, some aspects of the project are free, but other features are proprietary and available only to paid users. Usually this works when there is enterprise demand for the project.*
+*Bajo un modelo de [open core] (https://en.wikipedia.org/wiki/Open_core), algunos aspectos del proyecto son gratuitos, pero otras características son propietarias y están disponibles solo para usuarios pagados. Por lo general, esto funciona cuando hay una demanda empresarial para el proyecto.*
 
 #### Pros
 
-* Business model aligned with something people are willing to pay for
-* Can scale well if successful
+* Modelo de negocio alineado con algo que la gente está dispuesta a pagar.
+* Puede escalar bien si tiene éxito
 
-#### Cons
-* Need to have something you can charge for (which means making certain features exclusive)
-* Can be at odds with making software freely accessible
-* “Two tiers” of product support can make free users unhappy
-* May require a CLA (Contributor License Agreement) in order to accept code submissions from outside contributors while retaining the ability to relicense those submissions under the proprietary license
+#### Contras
 
-#### Case Studies
+* Necesitas tener algo por lo que puedas cobrar (lo que significa que ciertas funciones son exclusivas)
+* Puede estar en desacuerdo con hacer que el software sea de libre acceso* "Dos niveles" de soporte de productos puede hacer que los usuarios gratis se sientan descontentos
+* Puede requerir un CLA (Contrato de licencia de colaborador) para aceptar envíos de códigos de contribuyentes externos, al mismo tiempo que conserva la capacidad de otorgar licencias a dichos envíos bajo la licencia de propiedad.
+
+#### Estudios del caso
 
 * [GitLab](https://about.gitlab.com/)
 * [Caddy](https://caddyserver.com/blog/accouncing-caddy-commercial-licenses); see also [retrospective](https://caddy.community/t/the-realities-of-being-a-foss-maintainer/2728/7)
