@@ -14,7 +14,7 @@ Las categorías no son mutualmente exclusivas. Por ejemplo, un proyecto puede te
 ---
 
 
-# Table of Contents
+# Tabla de cóntenidos:
 1. [Botón de donación](#donation-button)
 2. [Recompensas](#bounties)
 3. [Crowdfunding (una-vez)](#crowdfunding-one-time)
