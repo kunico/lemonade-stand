@@ -28,7 +28,7 @@ Las categorías no son mutualmente exclusivas. Por ejemplo, un proyecto puede te
 11. [Apoyo pagado](#apoyo-pagado)
 12. [SaaS](#saas)
 13. [Copyleft + licencia paga](#copyleft--licencia-paga)
-14. [Open core](#open-core)
+14. [Open Core](#open-core)
 15. [Fundaciones & consorcios](#fundaciones--consorcios)
 16. [Capital de riesgo](#capital-de-riesgo)
 17. [Licencia restringida](#licencia-restringida)
@@ -363,7 +363,7 @@ TRADUCCIÓNES: [Chino Tradicional(繁體中文)](https://github.com/jserv/lemona
 
 ## Open core
 
-*Bajo un modelo de [open core] (https://en.wikipedia.org/wiki/Open_core), algunos aspectos del proyecto son gratuitos, pero otras características son propietarias y están disponibles solo para usuarios pagados. Por lo general, esto funciona cuando hay una demanda empresarial para el proyecto.*
+*Bajo un modelo de [open core](https://en.wikipedia.org/wiki/Open_core), algunos aspectos del proyecto son gratuitos, pero otras características son propietarias y están disponibles solo para usuarios pagados. Por lo general, esto funciona cuando hay una demanda empresarial para el proyecto.*
 
 #### Pros
 
