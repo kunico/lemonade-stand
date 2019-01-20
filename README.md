@@ -34,7 +34,7 @@ Las categorías no son mutualmente exclusivas. Por ejemplo, un proyecto puede te
 17. [Licencia restringida](#licencia-restringida)
 
 APÉNDICE: [Contribuyendo a esta guía](#contributing-to-this-guide) // [Licencia y atribución](#license-and-attribution)  
-TRADUCCIÓNES: [Chino Tradicional(繁體中文)](https://github.com/jserv/lemonade-stand) // [Chino Simplificado(簡體中文)](https://github.com/wizicer/FinancialSupportForOpenSource) // [Italiano](https://github.com/dakk/lemonade-stand) // [Japonés(日本語)](https://github.com/fumikito/lemonade-stand)
+TRADUCCIÓNES: [Inglés (english)](https://github.com/nayafia/lemonade-stand) [Chino Tradicional(繁體中文)](https://github.com/jserv/lemonade-stand) // [Chino Simplificado(簡體中文)](https://github.com/wizicer/FinancialSupportForOpenSource) // [Italiano](https://github.com/dakk/lemonade-stand) // [Japonés(日本語)](https://github.com/fumikito/lemonade-stand)
 
 **"esfuerzo personal" notas Cuando un esfuerzo de financiación fue liderada por un individuo, no un proyecto*
 
@@ -469,4 +469,4 @@ Si algo es incorrecto (especialmente con un ejemplo de estudio de caso), doy la 
 
 ### Licencia y atribución
 
-Esta guía está disponible bajo la licencia Creative Commons CC0 1.0, lo que significa que puede usarla para cualquier propósito, comercial o no comercial, sin ninguna atribución a mi nombre (dominio público). Si lo usas, me encantaría saberlo. (Búscame aquí: [@nayafia](http://twitter.com/nayafia)) Pero no estás obligado a hacerlo.
+Esta guía está disponible bajo la licencia Creative Commons CC0 1.0, lo que significa que puede usarla para cualquier propósito, comercial o no comercial, sin ninguna atribución a mi nombre (dominio público). 
