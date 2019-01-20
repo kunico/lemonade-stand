@@ -388,21 +388,21 @@ TRADUCCIÓNES: [Chino Tradicional(繁體中文)](https://github.com/jserv/lemona
 
 ## Fundaciones & consorcios
 
-*A [foundation](https://en.wikipedia.org/wiki/Foundation_(nonprofit)) is a legal entity that can accept and/or disburse donations. Because their purpose is not to make profits, they can be a great choice to signal neutrality and steward a project. In the US, foundations are either 501(c)(3) (nonprofit) or 501(c)(6) (trade consortium). Many software foundations are 501(c)(6) because 501(c)(3) require demonstrating a charitable purpose, which can be more difficult in software.*
+*Una [fundación](https://en.wikipedia.org/wiki/Foundation_(nonprofit)) es una entidad legal que puede aceptar y / o desembolsar donaciones. Ya que su propósito no es obtener ganancias, pueden ser una gran opción para señalar neutralidad y administración del proyecto. En los Estados Unidos, las fundaciones pueden ser 501(c)(3) (nonprofit) o 501(c)(6) (consorcio de comercio). Muchas fundaciones de software son 501(c)(6) porque 501(c)(3) requieren demostrar un propósito de caridad, el cual puede ser más difícil en software.*
 
 #### Pros
 
-* Neutrality. Foundation protects the code and helps steward community
-* Influence distributed across multiple donors
-* Can legitimize project, companies might feel more comfortable giving to foundations than individuals
+* Neutralidad. La Fundación protege el código y ayuda a la comunidad de contribuyentes.
+* Influencia distribuida entre múltiples donantes.
+* Puede legitimar el proyecto, las empresas pueden sentirse más cómodas dando a las fundaciones que los individuos
 
-#### Cons
+#### Contras
 
-* Only really worth it for big projects
-* Difficult to set up for IRS reasons (many do 501(c)(6) instead of 501(c)(3)), restrictions on what you can do
-* Requires serious community effort and diverse skills (you still need to fundraise after setting up the entity!)
+* Solo vale la pena para grandes proyectos.
+* Difícil de configurar por razones del IRS (muchos hacen 501 (c) (6) en lugar de 501 (c) (3)), restricciones sobre lo que puede hacer
+* Requiere un esfuerzo serio de la comunidad y habilidades diversas (¡todavía necesitas recaudar fondos después de configurar la entidad!)
 
-#### Case Studies
+#### Estudios del caso
 
 * [Linux Foundation](https://www.linuxfoundation.org/)
 * [Node.js Foundation](https://www.sitepoint.com/goodbye-joyent-hello-node-js-foundation/)
@@ -412,22 +412,22 @@ TRADUCCIÓNES: [Chino Tradicional(繁體中文)](https://github.com/jserv/lemona
 
 ## Capital de riesgo
 
-*Venture capital is a form of funding for high growth businesses. Unlike a bank loan or other forms of debt financing, venture capitalists take equity (a percent ownership in your business) in exchange for funding. Unlike taking out a loan, you don't have to repay your creditors if your business tanks. If you do succeed, however, you should expect to return capital to your investor at a multiple.*
+*El capital de riesgo es una forma de financiamiento para empresas de alto crecimiento. A diferencia de un préstamo bancario u otras formas de financiamiento de deuda, los capitalistas de riesgo toman capital (un porcentaje de participación en su negocio) a cambio de financiamiento. A diferencia de obtener un préstamo, no tiene que reembolsar a sus acreedores si su empresa se mueve. Sin embargo, si tiene éxito, debe esperar devolver el capital a su inversor en un múltiplo.*
 
-*Venture capital is "high risk high reward": VCs are more risk tolerant than banks, but they also expect a large payoff if you are successful. If you plan on raising venture capital, you should set up a business entity structured as a C Corp, preferably in Delaware. If you're unfamiliar with the venture capital process, the best place to start is by reaching out to similar founders who have successfully raised venture.*
+*El capital de riesgo es una "recompensa alta de alto riesgo": los VC son más tolerantes al riesgo que los bancos, pero también esperan una gran recompensa si tiene éxito. Si planea obtener capital de riesgo, debe crear una entidad comercial estructurada como una corporación C, preferiblemente en Delaware. Si no está familiarizado con el proceso de capital de riesgo, el mejor lugar para comenzar es contactarse con fundadores similares que hayan creado exitosamente el emprendimiento.*
 
 #### Pros
 
-* Institutional support can be helpful for growing a business
-* Large amounts of capital available
+* El apoyo institucional puede ser útil para hacer crecer un negocio
+* Grandes cantidades de capital disponibles.
 
-#### Cons
+#### Contras
 
-* Venture capital comes with expectations of an exit (i.e. returning the money to investors at a multiple). History suggests this is structurally difficult to achieve for open source businesses. Venture Capital isn't actually a business model but only investment capital for those who have some *other* business model for future revenue.
-* Venture capital can change motivations and distract from priorities
-* Unavailable to non-profits
+* El capital de riesgo viene con las expectativas de una salida (es decir, devolver el dinero a los inversores en un múltiplo). La historia sugiere que esto es estructuralmente difícil de lograr para las empresas de código abierto. El Capital de Riesgo no es en realidad un modelo de negocios, sino un capital de inversión para aquellos que tienen algún otro modelo de negocios para futuros ingresos.
+* El capital de riesgo puede cambiar las motivaciones y distraer de las prioridades.
+* No disponible para organizaciones sin fines de lucro.
 
-#### Case Studies
+#### Estudios del caso
 
 * [Confluent](http://www.confluent.io/blog/confluent-raises-a-series-b-funding)
 * [Gatsby](https://www.gatsbyjs.org/blog/2018-05-24-launching-new-gatsby-company/)
@@ -438,19 +438,19 @@ TRADUCCIÓNES: [Chino Tradicional(繁體中文)](https://github.com/jserv/lemona
 
 ## Licencia restringida
 
-*Restricted licenses (reminiscent of the older [shareware](https://en.wikipedia.org/wiki/Shareware) movement) are **not open source** because they do not meet [the definition](https://en.wikipedia.org/wiki/The_Open_Source_Definition) of an open source license. The source code is made available (either publicly, or to customers who pay for a license), but they may limit the freedoms to redistribute and modify or to use the software commercially.*
+* Las licencias restringidas (que recuerdan al antiguo [shareware](https://en.wikipedia.org/wiki/Shareware) no son de código abierto ** porque no cumplen con [la definición](https://en.wikipedia.org/wiki/The_Open_Source_Definition) de una licencia de código abierto. El código fuente está disponible (ya sea públicamente o para los clientes que pagan por una licencia), pero pueden limitar las libertades para redistribuir y modificar o utilizar el software comercialmente. *
 
 #### Pros
 
-* Business model aligned with something people are willing to pay for
-* Potential to scale well if successful
+* Modelo de negocio alineado con algo que la gente está dispuesta a pagar.
+* Potencial para escalar bien si tiene éxito
 
-#### Cons
+#### Contras
 
-* Not actually open source (so may fail to achieve many or most of the benefits of open source)
-* Can be controversial, erode community trust
+* En realidad no es de código abierto (por lo que puede no lograr muchos o la mayoría de los beneficios del código abierto)
+* Puede ser controvertido, erosionar la confianza de la comunidad.
 
-#### Case Studies
+#### Estudios del caso
 
 * [BSL (Business Source License)](https://mariadb.com/bsl-faq-adopting), used by [MariaDB](https://mariadb.com/)
 * [Fair Source](https://fair.io/), used by [Sourcegraph](https://sourcegraph.com/)
@@ -461,12 +461,12 @@ TRADUCCIÓNES: [Chino Tradicional(繁體中文)](https://github.com/jserv/lemona
 
 ---
 
-### Contributing to this guide
+### Contribuyendo a esta guía
 
-I wrote up this guide to aggregate my own knowledge. I recognize the pros/cons are somewhat subjective, but they reflect my views. If you submit changes, I may consider them but do not intend to cover everyone's viewpoints.
+Escribí esta guía para agregar mi propio conocimiento. Reconozco que los pros / contras son algo subjetivos, pero reflejan mis opiniones. Si envía cambios, puedo considerarlos pero no pretendo cubrir los puntos de vista de todos.
 
-If something is factually incorrect (especially with a case study example), I welcome your edits. Case studies are organized alphabetically within each category. Also, if there's a category you know of that I missed, I would also welcome that addition.
+Si algo es incorrecto (especialmente con un ejemplo de estudio de caso), doy la bienvenida a sus ediciones. Los estudios de caso están organizados alfabéticamente dentro de cada categoría. Además, si hay una categoría que sabes que olvidé, también agradecería esa adición.
 
-### License and attribution
+### Licencia y atribución
 
-This guide is available under the Creative Commons CC0 1.0 License, meaning you are free to use it for any purpose, commercial or non-commercial, without any attribution back to me (public domain). If you do use it, I'd love to hear about it! (Find me here: [@nayafia](http://twitter.com/nayafia)) But you are in no way required to do so.
+Esta guía está disponible bajo la licencia Creative Commons CC0 1.0, lo que significa que puede usarla para cualquier propósito, comercial o no comercial, sin ninguna atribución a mi nombre (dominio público). Si lo usas, me encantaría saberlo. (Búscame aquí: [@nayafia] (http://twitter.com/nayafia)) Pero no estás obligado a hacerlo.
