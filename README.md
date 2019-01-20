@@ -1,81 +1,84 @@
-# A handy guide to financial support for open source.
-*"I do open source work, how do I find funding?"*
+# Una guía práctica de apoyo financiero para código abierto.
+*"Hago código abierto,¿cómo puedo encontrar financiación?"*
 
-This document aims to provide an exhaustive list of all the ways that people get paid for open source work. Hopefully, projects and contributors will find this helpful in figuring out the best options for them.
+Este documento tiene como objetivo proporcionar una lista exhaustiva de todas las formas en que se paga a las personas por el trabajo de código abierto. Con suerte, los proyectos y colaboradores encontrarán esto útil para descubrir las mejores opciones para ellos.
 
-The list below is roughly ordered from small to large. Each funding category links to several real examples (using topical articles or pages wherever possible instead of just a project's homepage.)
+La lista a continuación está ordenanda aproximadamente de pequeño a grande. Cada categoría de financiación se enlaza con varios ejemplos reales (utilizando articulos de temas o páginas donde sea posible en lugar de solo la página de inicio de un proyecto.)
 
-The categories are not mutually exclusive. For example, a project might have a foundation but also use crowdfunding to raise money. Someone else might do consulting and also have a donation button. Etc. 
+Las categorías no son mutualmente exclusivas. Por ejemplo, un proyecto puede tener una fundación pero también usar crowdfunding para recaudar dinero. Alguien más puede hacer consultoría y también tener un botón de donación. Etc.
+
+
+
 
 
 ---
 
 
 # Table of Contents
-1. [Donation button](#donation-button)
-2. [Bounties](#bounties)
-3. [Crowdfunding (one-time)](#crowdfunding-one-time)
-4. [Crowdfunding (recurring)](#crowdfunding-recurring)
-5. [Books and merchandise](#books-and-merchandise)
-6. [Advertising & sponsorships](#advertising--sponsorships)
-7. [Get hired by a company to work on project](#get-hired-by-a-company-to-work-on-project)
-8. [Start a project while currently employed](#start-a-project-while-currently-employed)
-9. [Grants](#grants)
-10. [Consulting](#consulting)
-11. [Paid support](#paid-support)
+1. [Botón de donación](#donation-button)
+2. [Recompensas](#bounties)
+3. [Crowdfunding (una-vez)](#crowdfunding-one-time)
+4. [Crowdfunding (recurrente)](#crowdfunding-recurring)
+5. [Libros y merchandise](#books-and-merchandise)
+6. [Publicidad y patrocinios](#advertising--sponsorships)
+7. [Ser contratado por una compañia para trabajar en un proyecto](#get-hired-by-a-company-to-work-on-project)
+8. [Empezar un proyecto mientras estás empleado](#start-a-project-while-currently-employed)
+9. [Subsidios](#grants)
+10. [Consultoría](#consulting)
+11. [Apoyo pagado](#paid-support)
 12. [SaaS](#saas)
-13. [Copyleft + paid license](#copyleft--paid-license)
+13. [Copyleft + licencia paga](#copyleft--paid-license)
 14. [Open core](#open-core)
-15. [Foundations & consortiums](#foundations--consortiums)
-16. [Venture capital](#venture-capital)
-17. [Restricted license](#restricted-license)
+15. [Fundaciones & consorcios](#foundations--consortiums)
+16. [Capital de riesgo](#venture-capital)
+17. [Licencia restringida](#restricted-license)
 
-APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License & attribution](#license-and-attribution)  
-TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemonade-stand) // [Simplified Chinese(簡體中文)](https://github.com/wizicer/FinancialSupportForOpenSource) // [Italian(italiano)](https://github.com/dakk/lemonade-stand) // [Japanese(日本語)](https://github.com/fumikito/lemonade-stand)
+APÉNDICE: [Contribuyendo a esta guía](#contributing-to-this-guide) // [Licencia y atribución](#license-and-attribution)  
+TRADUCCIÓNES: [Chino Tradicional(繁體中文)](https://github.com/jserv/lemonade-stand) // [Chino Simplificado(簡體中文)](https://github.com/wizicer/FinancialSupportForOpenSource) // [Italiano](https://github.com/dakk/lemonade-stand) // [Japonés(日本語)](https://github.com/fumikito/lemonade-stand)
 
-**"personal effort" notes when a funding effort was led by an individual, not a project*
+**"esfuerzo personal" notas Cuando un esfuerzo de financiación fue liderada por un individuo, no un proyecto*
 
-## Donation button
+## Botones de donación
 
-*Stick a donation button on your site. Stripe and PayPal are examples of services you can use to accept donations.*
+*Inserta un botón de donación a tu sitio. Stripe y PayPal son ejemplos de servicios que puedes usar para aceptar donaciones.*
 
 #### Pros
 
-* Few strings attached
-* Little work involved: "set it and forget it"
+* Pocas condiciones
+* Poco trabajo involucrado: "configúralo y olvídalo"
 
-#### Cons
+#### Contras
 
-* Usually not much money unless you have dedicated fundraising efforts
-* Need an entity to accept donations, which may take a fee for doing so.  Examples are Stripe and PayPal.
-* To make donations tax-free for the person/organization who is donating, may need a legally charitable entity (in the United States, a 501(c)(3) nonprofit entity) to accept donations. [Software Freedom Conservancy](https://sfconservancy.org) and [NumFOCUS](https://www.numfocus.org) are examples. Harder for individuals or international donations to manage
-* Sometimes not clear who “deserves” money in a project or how it gets distributed. An entity like [OpenCollective](http://opencollective.com) may help with this.
+* Por lo general, no es mucho dinero a menos que haya dedicado esfuerzos de recaudación de fondos.
+* Necesita que una entidad acepte donaciones, que pueden cobrar una tarifa por hacerlo. Ejemplos son Stripe y PayPal.
+* Para hacer donaciones líbres de impuestos para la persona/organización que está donando, es posible que necesite una entidad legalmente caritativa (en los Estados Unidos, una entidad sin fines de lucro 501(c)(3)) para aceptar donaciones. [Software Freedom Conservancy](https://sfconservancy.org) y [NumFOCUS](https://www.numfocus.org) son ejemplos. Más difícil de gestionar para individuos o donaciones internacionales.
+* Algúnas veces no es claro quién "merece" dinero en un proyecto o cómo éste es distribuído. Una entidad como [OpenCollective](http://opencollective.com) puede ayudar con esto.
 
-#### Case Studies
+#### Estudios de caso
 
 * [ChatSecure](https://chatsecure.org/blog/sustainable-open-source-starts-with-you/)
 * [Git](https://git-scm.com/sfc)
 * [Transmission](https://www.transmissionbt.com/)
 * [Twisted](https://twistedmatrix.com/trac/wiki/WhyDonate)
 
-## Bounties
+## Recompensas(Bounties)
 
-*Sometimes, projects or companies post bounties for open source work (ex. "fix this bug and collect $100"). There are several websites, listed below, that help facilitate the posting and collection of bounties.*
+*En ocasiones, proyectos o compañias publican recompensas por trabajo en código abierto (ej. "arregla este error y colecta $100"). Hay varios sitios web, enumerados a continuación, que ayudan a facilitar la publicación y recopilación de recompensas.*
 
 #### Pros
 
-* Open to community participation
-* Money is tied to doing specific work (more like paying for service than donations)
-* Especially popular for security work
+* Abierto a la participación de la comunidad.
+* El dinero está ligado a hacer un trabajo específico (más como pagar por servicio que donaciones).
+* Especialmente popular para trabajos de seguridad.
 
-#### Cons
+#### Contras
 
-* Can create perverse incentives in a project (low quality PRs, distracting priorities)
-* Conflicts can arise over whether work fulfills a bounty
-* Usually not much money per bounty (~<$500)
-* Doesn’t provide recurring revenue
+* Puede crear incentivos perversos en un proyecto (RP de baja calidad, prioridades de distracción).
+* Pueden surgir conflictos sobre si el trabajo cumple con una recompensa.
+* Generalmente no hay mucho dinero por recompensa (~ <$ 500).
+* No proporciona ingresos recurrentes.
 
-#### Case Studies
+#### Estudios de caso
 
 * [Bountysource](http://bountysource.com)
 * [Gitcoin](https://gitcoin.co/explorer)
